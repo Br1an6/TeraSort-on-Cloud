@@ -31,6 +31,8 @@ e.g. 1TB `./gensort -a 10000000000 testfile`
 
 ###### For more information: [Please read](https://github.com/Br1an6/TeraSort-on-Cloud/blob/master/readme.txt).
 
+###### Please note that we have removed some configuration files and scripts in public version.
+
 License
 -------
 
