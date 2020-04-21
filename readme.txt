@@ -1,6 +1,3 @@
-A20375099 Yuan-An Liu, 
-A20382007 Sharel Clavy Pereira
-
 ============ Code Explanation ============
 
 Shared Memory:
